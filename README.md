@@ -13,4 +13,4 @@ This RobotOrders project was one of the things I worked on during college and I 
 
 ## What I've learned
 
-While making the LinkedList I improved my C syntax, Data structure understanding, and my dynamic memory allocation skills. 
+While making the LinkedList I improved my C syntax, Data structure understanding, and my dynamic memory allocation skills. I also improved my understanding of how to use Makefiles.
